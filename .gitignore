@@ -5,3 +5,6 @@
 gamedata.*
 Scratch*
 Barbarian
+
+.idea/
+cmake-build-debug/
